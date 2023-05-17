@@ -1,0 +1,11 @@
+.navbar{
+    background-color: silver;
+}
+.nav-item a{
+    color: white;
+    transition: .3s ease-in;
+}
+
+.nav-item a:hover{
+    color: orange;
+}

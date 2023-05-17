@@ -1,0 +1,29 @@
+.login-content{
+
+text-align: center;
+
+
+}
+
+.form-signin{
+    max-width: 300px;
+}
+.btn-login{
+    background-color: blueviolet;
+    color: white;
+    }
+
+    .btn-login:hover{
+        background-color: red;
+        color: white;
+    }
+    .opcoes-login a{
+        text-decoration: none;
+        color: black;
+        transition: .2s ease-in-out;
+    }
+
+    .opcoes-login:hover a{
+        text-decoration: none;
+        color: red;
+    }

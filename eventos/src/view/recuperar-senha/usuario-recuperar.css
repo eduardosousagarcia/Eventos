@@ -1,0 +1,13 @@
+
+.form-login{
+    max-width: 300px;
+}
+.btn-enviar{
+    background-color: blueviolet;
+    color: white;
+}
+
+.btn-enviar:hover{
+    background-color: red;
+    color: white;
+}

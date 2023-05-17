@@ -1,0 +1,14 @@
+
+.form-login{
+    max-width: 300px;
+}
+
+.btn-cadastro{
+    background-color: blueviolet;
+    color: white;
+}
+
+.btn-cadastro:hover{
+    background-color: red;
+    color: white;
+}
